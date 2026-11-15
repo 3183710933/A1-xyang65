@@ -1,0 +1,6 @@
+# Compiled build output
+out/
+*.class
+
+# Local helper script (not part of the submission source)
+run.bat
